@@ -31,3 +31,67 @@
     transform: rotate(360deg);
   }
 }
+
+.ContactMe{
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 30vh;
+  color: #571A2E;
+  padding-top: 30vh;
+
+}
+
+.ContactContainer{
+  display: flex;
+  width: 100vw;
+  height: 100vh -20px;
+  justify-content: space-around;
+
+}
+
+.ProjectsContainer {
+ display: flex;
+
+}
+
+.ProjectImage {
+  width: 20vw;
+  margin-bottom: -3px;
+}
+
+.Opener1{
+    position: absolute;
+    color: #571A2E;
+    left: 30vw;
+    top: 20vh;
+    font-weight: bold;
+
+}
+
+
+.Opener2{
+    position: absolute;
+    color: #571A2E;
+    right: 30vw;
+    top: 40vh;
+    font-weight: bold;
+
+}
+
+.Opener3{
+    position: absolute;
+    color: #571A2E;
+    left: 40vw;
+    top: 70vh;
+    font-weight: bold;
+
+}
+
+.Opener4{
+    position: absolute;
+    color: #571A2E;
+    right: 50vw;
+    top: 80vh;
+    font-weight: bold;
+
+}
